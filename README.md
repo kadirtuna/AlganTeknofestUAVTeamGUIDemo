@@ -4,7 +4,7 @@
 
 ​	Firstly, with the configurated UAV to be connected which is preparing to take-off, the connection with the UAV is provided by the connection tab's settings as it is shown below named "IHA Bağlantı"(UAV Connection). After the successful connection, the instant telemetry data of the UAV will be able to seen in the "TCP Verileri" tab like"Latitude", "Longitude", "Altitude" etc. 
 
-   Moreover in "IHA Goruntu"(UAV Display) tab, the live camera view of the UAV can be seen with some informative text that indicates the current situation of the UAV such as "Mission Mode", "UAV Control" and "GPS Clock". Simply put, there are two modes to perform the tasks given by Teknofest, which are "Locking" and "Kamikaze". The modes can be easily changed by the pilot's control with his transmitter. On the left of "IHA Goruntu"(IHA Display) tab, there are some information that is created during flight. The explanation of what are they for is below under the "Categories of the GUI" tab.
+​ Moreover in "IHA Goruntu"(UAV Display) tab, the live camera view of the UAV can be seen with some informative text that indicates the current situation of the UAV such as "Mission Mode", "UAV Control" and "GPS Clock". Simply put, there are two modes to perform the tasks given by Teknofest, which are "Locking" and "Kamikaze". The modes can be easily changed by the pilot's control with his transmitter. On the left of "IHA Goruntu"(IHA Display) tab, there are some information that is created during flight. The explanation of what are they for is below under the "Categories of the GUI" tab.
 
 ​    To sum up, This UAV GUI is to connect the UAV, to see the telemetry data of the UAV as well displaying the processed live camera view with the model of UAV Detection or another mode's necessarities. As there are more detailed explanation below, you should dive into to read to learn what does the program do especially along the processes in the background. If you are reading this article and be interested in aviation with Teknofest Competition, see you there at Teknofest 2023. 
 
@@ -41,9 +41,6 @@
    The second one is "Kamikaze Mode" to read the QR code which is planned to be seen of the camera in front of the UAV. The display shows a bounding box that is limited by Teknofest Rules. If our camera would detect any qr code in the boundaries of the box, the "Read QR Code" is going to be seen in the GUI. Therefore the mission is going to be successfull and our system will send the qr code data to the Teknofest's Server(Named Main Server before).
 
 ​	During these both modes, "GPS Clock", "Mission Mode", "IHA Control" data and "The Read QR Code" as well "IsLocked", "Locking Time" and "The Best Locking Time" data can be seen in the frame depends on the mission.
-
-​	
-
 
 
 ​    All of these progress is happening on the back-end of the program developed with long process by me and my colleouges. Hopefully, Algan UAV Technology team is going to have the best across its straggling and hard work.
