@@ -46,7 +46,7 @@
 
 ​	During these both modes, "GPS Clock", "Mission Mode", "IHA Control" data and "The Read QR Code" as well "IsLocked", "Locking Time" and "The Best Locking Time" data can be seen in the frame depends on the mission.
 
-![IHA_Display_Image](https://github.com/kadirtuna/AlganGUIDemo/blob/main/Images/IHA_Display.jpg?raw=true)
+<img align="center" src="https://github.com/kadirtuna/AlganGUIDemo/blob/main/Images/IHA_Display.jpg?raw=true"></img>
 
 <p align="center">IHA Goruntu(IHA Display) Tab Appearence</p>
 
