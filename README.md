@@ -26,7 +26,7 @@
 
 ​	This part is to connect with the UAV which is prepared to take-off. With typing some informations to connect, the connection process is performed on the back-end. With giving the "Ground Station IP", "Main Server IP", "TCP_Port", "UDP_Port" to the ground station's "IHA Baglanti"(IHA Connection) part, a TCP and a UDP sockets are initializing with the UAV. If the connection is succesfully established, "IHA Bağlantı Durumu" (The connection status) label lights on with the green color. Otherwise, it will be filled out with the red background color to warn the GUI User failing to connect.
 
-![IHA_Connection Image](https://github.com/kadirtuna/AlganGUIDemo/blob/main/Images/IHA_Connection.jpg?raw=true)
+<p align="center"><img src="https://github.com/kadirtuna/AlganGUIDemo/blob/main/Images/IHA_Connection.jpg?raw=true"></img></p>
 
 <p align="center">IHA Baglanti(IHA Connection) Tab Appearence</p>
 
@@ -46,7 +46,7 @@
 
 ​	During these both modes, "GPS Clock", "Mission Mode", "IHA Control" data and "The Read QR Code" as well "IsLocked", "Locking Time" and "The Best Locking Time" data can be seen in the frame depends on the mission.
 
-<img align="center" src="https://github.com/kadirtuna/AlganGUIDemo/blob/main/Images/IHA_Display.jpg?raw=true"></img>
+<p align="center"><img src="https://github.com/kadirtuna/AlganGUIDemo/blob/main/Images/IHA_Display.jpg?raw=true"></img></p>
 
 <p align="center">IHA Goruntu(IHA Display) Tab Appearence</p>
 
