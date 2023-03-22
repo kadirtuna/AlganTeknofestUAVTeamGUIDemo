@@ -34,7 +34,7 @@
 
    The data taken using TCP socket connection appears in this tab. Some data of the UAV to be evaluated by pilot or system manager is put on the page for acquiring the crucial data. As the tab shows, the instant data that is sending "Team Number", "Latitude", "Longitude", "Altitude", "Standing Angle", "Orientation Angle", "Bank Angle", "Speed", "Battery Indicator", "Mission Mode" and GPS clock in a row vertically by the UAV.
 
-![IHA_TCP_Data_Image](https://github.com/kadirtuna/AlganGUIDemo/blob/main/Images/Telemetry_TCP_data.jpg?raw=true)
+<img align="center" src="https://github.com/kadirtuna/AlganGUIDemo/blob/main/Images/Telemetry_TCP_data.jpg?raw=true"></img>
 
 <p align="center">TCP Verileri(TCP Telemetry Data) Tab Appearence</p>
 
